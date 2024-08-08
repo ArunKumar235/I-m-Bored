@@ -1,7 +1,7 @@
 
 # I'm Bored
 
-A Node.js web application where users can explore various activities when they are bored. The app includes features to interact with the site and choose the type of task and the number of people required to complete the activity.
+A Node.js web application where users can explore various activities when they are bored. The app includes features to interact with the site and choose the type of task and the number of people required to complete the activity. It utilizes the [Bored API](https://bored-api.appbrewery.com/) from App Brewery to fetch random activities for users.
 
 ## Features
 
